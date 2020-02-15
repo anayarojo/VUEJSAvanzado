@@ -1,4 +1,4 @@
-# platzi-rooms
+# Platzi Rooms
 
 ## Project setup
 ```
